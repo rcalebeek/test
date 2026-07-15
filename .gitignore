@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Standaard rapport-uitvoer in de projectroot
+/wetgeving_vergelijking.html
